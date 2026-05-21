@@ -1,4 +1,4 @@
-# Principais-conhecimento-adicionais
+# Python
 
 Python 
 pontos_acumulados = 0  # Inicializa o acumulador
